@@ -39,4 +39,5 @@ SQL, R, Python, Linux를 배웠고,
    - Python을 기반으로 다양한 프로젝트를 진행 중입니다.
    - Python 위주로 사용하고 있지만 R을 활용한 분석도 가능합니다.
    - 머신러닝 및 딥러닝 이해와 모델링 경험이 있습니다.
+   - sklearn, tensorflow, keras, pandas, numpy
 - **Linux shell script 활용 가능합니다.**
